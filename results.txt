@@ -1,0 +1,1861 @@
+Data set = iris|	 Classifier = Random forest classifier 
+hyper params:
+ |random state = 1337|	 |number of estimators = 10|	 |min_samples_leaf = 1|	 |min_samples_split = 2|
+confusion matrix: 
+ [[20  0  0]
+ [ 0  9  0]
+ [ 0  2 14]] 
+
+classification report: 
+                  precision    recall  f1-score   support
+
+    Iris-setosa       1.00      1.00      1.00        20
+Iris-versicolor       0.82      1.00      0.90         9
+ Iris-virginica       1.00      0.88      0.93        16
+
+    avg / total       0.96      0.96      0.96        45
+ 
+accuracy score: 
+ 0.9555555555555556 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Data set = iris|	 Classifier = Random forest classifier with Naive Bayes 
+hyper params:
+ |random state = 1337|	 |number of estimators = 10|	 |min_samples_leaf = 1|	 |min_samples_split = 2|
+confusion matrix: 
+ [[20  0  0]
+ [ 0  9  0]
+ [ 0  1 15]] 
+
+classification report: 
+                  precision    recall  f1-score   support
+
+    Iris-setosa       1.00      1.00      1.00        20
+Iris-versicolor       0.90      1.00      0.95         9
+ Iris-virginica       1.00      0.94      0.97        16
+
+    avg / total       0.98      0.98      0.98        45
+ 
+accuracy score: 
+ 0.9777777777777777 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Data set = iris|	 Classifier = Random forest classifier 
+hyper params:
+ |random state = 1337|	 |number of estimators = 10|	 |min_samples_leaf = 1|	 |min_samples_split = 10|
+confusion matrix: 
+ [[20  0  0]
+ [ 0  9  0]
+ [ 0  0 16]] 
+
+classification report: 
+                  precision    recall  f1-score   support
+
+    Iris-setosa       1.00      1.00      1.00        20
+Iris-versicolor       1.00      1.00      1.00         9
+ Iris-virginica       1.00      1.00      1.00        16
+
+    avg / total       1.00      1.00      1.00        45
+ 
+accuracy score: 
+ 1.0 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Data set = iris|	 Classifier = Random forest classifier with Naive Bayes 
+hyper params:
+ |random state = 1337|	 |number of estimators = 10|	 |min_samples_leaf = 1|	 |min_samples_split = 10|
+confusion matrix: 
+ [[20  0  0]
+ [ 0  9  0]
+ [ 0  1 15]] 
+
+classification report: 
+                  precision    recall  f1-score   support
+
+    Iris-setosa       1.00      1.00      1.00        20
+Iris-versicolor       0.90      1.00      0.95         9
+ Iris-virginica       1.00      0.94      0.97        16
+
+    avg / total       0.98      0.98      0.98        45
+ 
+accuracy score: 
+ 0.9777777777777777 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Data set = iris|	 Classifier = Random forest classifier 
+hyper params:
+ |random state = 1337|	 |number of estimators = 10|	 |min_samples_leaf = 1|	 |min_samples_split = 20|
+confusion matrix: 
+ [[20  0  0]
+ [ 0  9  0]
+ [ 0  0 16]] 
+
+classification report: 
+                  precision    recall  f1-score   support
+
+    Iris-setosa       1.00      1.00      1.00        20
+Iris-versicolor       1.00      1.00      1.00         9
+ Iris-virginica       1.00      1.00      1.00        16
+
+    avg / total       1.00      1.00      1.00        45
+ 
+accuracy score: 
+ 1.0 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Data set = iris|	 Classifier = Random forest classifier with Naive Bayes 
+hyper params:
+ |random state = 1337|	 |number of estimators = 10|	 |min_samples_leaf = 1|	 |min_samples_split = 20|
+confusion matrix: 
+ [[20  0  0]
+ [ 0  9  0]
+ [ 0  1 15]] 
+
+classification report: 
+                  precision    recall  f1-score   support
+
+    Iris-setosa       1.00      1.00      1.00        20
+Iris-versicolor       0.90      1.00      0.95         9
+ Iris-virginica       1.00      0.94      0.97        16
+
+    avg / total       0.98      0.98      0.98        45
+ 
+accuracy score: 
+ 0.9777777777777777 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Data set = iris|	 Classifier = Random forest classifier 
+hyper params:
+ |random state = 1337|	 |number of estimators = 10|	 |min_samples_leaf = 5|	 |min_samples_split = 2|
+confusion matrix: 
+ [[20  0  0]
+ [ 0  9  0]
+ [ 0  2 14]] 
+
+classification report: 
+                  precision    recall  f1-score   support
+
+    Iris-setosa       1.00      1.00      1.00        20
+Iris-versicolor       0.82      1.00      0.90         9
+ Iris-virginica       1.00      0.88      0.93        16
+
+    avg / total       0.96      0.96      0.96        45
+ 
+accuracy score: 
+ 0.9555555555555556 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Data set = iris|	 Classifier = Random forest classifier with Naive Bayes 
+hyper params:
+ |random state = 1337|	 |number of estimators = 10|	 |min_samples_leaf = 5|	 |min_samples_split = 2|
+confusion matrix: 
+ [[20  0  0]
+ [ 0  9  0]
+ [ 0  1 15]] 
+
+classification report: 
+                  precision    recall  f1-score   support
+
+    Iris-setosa       1.00      1.00      1.00        20
+Iris-versicolor       0.90      1.00      0.95         9
+ Iris-virginica       1.00      0.94      0.97        16
+
+    avg / total       0.98      0.98      0.98        45
+ 
+accuracy score: 
+ 0.9777777777777777 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Data set = iris|	 Classifier = Random forest classifier 
+hyper params:
+ |random state = 1337|	 |number of estimators = 10|	 |min_samples_leaf = 5|	 |min_samples_split = 10|
+confusion matrix: 
+ [[20  0  0]
+ [ 0  9  0]
+ [ 0  2 14]] 
+
+classification report: 
+                  precision    recall  f1-score   support
+
+    Iris-setosa       1.00      1.00      1.00        20
+Iris-versicolor       0.82      1.00      0.90         9
+ Iris-virginica       1.00      0.88      0.93        16
+
+    avg / total       0.96      0.96      0.96        45
+ 
+accuracy score: 
+ 0.9555555555555556 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Data set = iris|	 Classifier = Random forest classifier with Naive Bayes 
+hyper params:
+ |random state = 1337|	 |number of estimators = 10|	 |min_samples_leaf = 5|	 |min_samples_split = 10|
+confusion matrix: 
+ [[20  0  0]
+ [ 0  9  0]
+ [ 0  1 15]] 
+
+classification report: 
+                  precision    recall  f1-score   support
+
+    Iris-setosa       1.00      1.00      1.00        20
+Iris-versicolor       0.90      1.00      0.95         9
+ Iris-virginica       1.00      0.94      0.97        16
+
+    avg / total       0.98      0.98      0.98        45
+ 
+accuracy score: 
+ 0.9777777777777777 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Data set = iris|	 Classifier = Random forest classifier 
+hyper params:
+ |random state = 1337|	 |number of estimators = 10|	 |min_samples_leaf = 5|	 |min_samples_split = 20|
+confusion matrix: 
+ [[20  0  0]
+ [ 0  9  0]
+ [ 0  2 14]] 
+
+classification report: 
+                  precision    recall  f1-score   support
+
+    Iris-setosa       1.00      1.00      1.00        20
+Iris-versicolor       0.82      1.00      0.90         9
+ Iris-virginica       1.00      0.88      0.93        16
+
+    avg / total       0.96      0.96      0.96        45
+ 
+accuracy score: 
+ 0.9555555555555556 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Data set = iris|	 Classifier = Random forest classifier with Naive Bayes 
+hyper params:
+ |random state = 1337|	 |number of estimators = 10|	 |min_samples_leaf = 5|	 |min_samples_split = 20|
+confusion matrix: 
+ [[20  0  0]
+ [ 0  9  0]
+ [ 0  1 15]] 
+
+classification report: 
+                  precision    recall  f1-score   support
+
+    Iris-setosa       1.00      1.00      1.00        20
+Iris-versicolor       0.90      1.00      0.95         9
+ Iris-virginica       1.00      0.94      0.97        16
+
+    avg / total       0.98      0.98      0.98        45
+ 
+accuracy score: 
+ 0.9777777777777777 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Data set = iris|	 Classifier = Random forest classifier 
+hyper params:
+ |random state = 1337|	 |number of estimators = 10|	 |min_samples_leaf = 10|	 |min_samples_split = 2|
+confusion matrix: 
+ [[20  0  0]
+ [ 0  9  0]
+ [ 0  2 14]] 
+
+classification report: 
+                  precision    recall  f1-score   support
+
+    Iris-setosa       1.00      1.00      1.00        20
+Iris-versicolor       0.82      1.00      0.90         9
+ Iris-virginica       1.00      0.88      0.93        16
+
+    avg / total       0.96      0.96      0.96        45
+ 
+accuracy score: 
+ 0.9555555555555556 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Data set = iris|	 Classifier = Random forest classifier with Naive Bayes 
+hyper params:
+ |random state = 1337|	 |number of estimators = 10|	 |min_samples_leaf = 10|	 |min_samples_split = 2|
+confusion matrix: 
+ [[20  0  0]
+ [ 0  9  0]
+ [ 0  1 15]] 
+
+classification report: 
+                  precision    recall  f1-score   support
+
+    Iris-setosa       1.00      1.00      1.00        20
+Iris-versicolor       0.90      1.00      0.95         9
+ Iris-virginica       1.00      0.94      0.97        16
+
+    avg / total       0.98      0.98      0.98        45
+ 
+accuracy score: 
+ 0.9777777777777777 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Data set = iris|	 Classifier = Random forest classifier 
+hyper params:
+ |random state = 1337|	 |number of estimators = 10|	 |min_samples_leaf = 10|	 |min_samples_split = 10|
+confusion matrix: 
+ [[20  0  0]
+ [ 0  9  0]
+ [ 0  2 14]] 
+
+classification report: 
+                  precision    recall  f1-score   support
+
+    Iris-setosa       1.00      1.00      1.00        20
+Iris-versicolor       0.82      1.00      0.90         9
+ Iris-virginica       1.00      0.88      0.93        16
+
+    avg / total       0.96      0.96      0.96        45
+ 
+accuracy score: 
+ 0.9555555555555556 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Data set = iris|	 Classifier = Random forest classifier with Naive Bayes 
+hyper params:
+ |random state = 1337|	 |number of estimators = 10|	 |min_samples_leaf = 10|	 |min_samples_split = 10|
+confusion matrix: 
+ [[20  0  0]
+ [ 0  9  0]
+ [ 0  1 15]] 
+
+classification report: 
+                  precision    recall  f1-score   support
+
+    Iris-setosa       1.00      1.00      1.00        20
+Iris-versicolor       0.90      1.00      0.95         9
+ Iris-virginica       1.00      0.94      0.97        16
+
+    avg / total       0.98      0.98      0.98        45
+ 
+accuracy score: 
+ 0.9777777777777777 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Data set = iris|	 Classifier = Random forest classifier 
+hyper params:
+ |random state = 1337|	 |number of estimators = 10|	 |min_samples_leaf = 10|	 |min_samples_split = 20|
+confusion matrix: 
+ [[20  0  0]
+ [ 0  9  0]
+ [ 0  2 14]] 
+
+classification report: 
+                  precision    recall  f1-score   support
+
+    Iris-setosa       1.00      1.00      1.00        20
+Iris-versicolor       0.82      1.00      0.90         9
+ Iris-virginica       1.00      0.88      0.93        16
+
+    avg / total       0.96      0.96      0.96        45
+ 
+accuracy score: 
+ 0.9555555555555556 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Data set = iris|	 Classifier = Random forest classifier with Naive Bayes 
+hyper params:
+ |random state = 1337|	 |number of estimators = 10|	 |min_samples_leaf = 10|	 |min_samples_split = 20|
+confusion matrix: 
+ [[20  0  0]
+ [ 0  9  0]
+ [ 0  1 15]] 
+
+classification report: 
+                  precision    recall  f1-score   support
+
+    Iris-setosa       1.00      1.00      1.00        20
+Iris-versicolor       0.90      1.00      0.95         9
+ Iris-virginica       1.00      0.94      0.97        16
+
+    avg / total       0.98      0.98      0.98        45
+ 
+accuracy score: 
+ 0.9777777777777777 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Data set = iris|	 Classifier = Random forest classifier 
+hyper params:
+ |random state = 1337|	 |number of estimators = 50|	 |min_samples_leaf = 1|	 |min_samples_split = 2|
+confusion matrix: 
+ [[20  0  0]
+ [ 0  9  0]
+ [ 0  1 15]] 
+
+classification report: 
+                  precision    recall  f1-score   support
+
+    Iris-setosa       1.00      1.00      1.00        20
+Iris-versicolor       0.90      1.00      0.95         9
+ Iris-virginica       1.00      0.94      0.97        16
+
+    avg / total       0.98      0.98      0.98        45
+ 
+accuracy score: 
+ 0.9777777777777777 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Data set = iris|	 Classifier = Random forest classifier with Naive Bayes 
+hyper params:
+ |random state = 1337|	 |number of estimators = 50|	 |min_samples_leaf = 1|	 |min_samples_split = 2|
+confusion matrix: 
+ [[20  0  0]
+ [ 0  9  0]
+ [ 0  1 15]] 
+
+classification report: 
+                  precision    recall  f1-score   support
+
+    Iris-setosa       1.00      1.00      1.00        20
+Iris-versicolor       0.90      1.00      0.95         9
+ Iris-virginica       1.00      0.94      0.97        16
+
+    avg / total       0.98      0.98      0.98        45
+ 
+accuracy score: 
+ 0.9777777777777777 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Data set = iris|	 Classifier = Random forest classifier 
+hyper params:
+ |random state = 1337|	 |number of estimators = 50|	 |min_samples_leaf = 1|	 |min_samples_split = 10|
+confusion matrix: 
+ [[20  0  0]
+ [ 0  9  0]
+ [ 0  1 15]] 
+
+classification report: 
+                  precision    recall  f1-score   support
+
+    Iris-setosa       1.00      1.00      1.00        20
+Iris-versicolor       0.90      1.00      0.95         9
+ Iris-virginica       1.00      0.94      0.97        16
+
+    avg / total       0.98      0.98      0.98        45
+ 
+accuracy score: 
+ 0.9777777777777777 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Data set = iris|	 Classifier = Random forest classifier with Naive Bayes 
+hyper params:
+ |random state = 1337|	 |number of estimators = 50|	 |min_samples_leaf = 1|	 |min_samples_split = 10|
+confusion matrix: 
+ [[20  0  0]
+ [ 0  9  0]
+ [ 0  1 15]] 
+
+classification report: 
+                  precision    recall  f1-score   support
+
+    Iris-setosa       1.00      1.00      1.00        20
+Iris-versicolor       0.90      1.00      0.95         9
+ Iris-virginica       1.00      0.94      0.97        16
+
+    avg / total       0.98      0.98      0.98        45
+ 
+accuracy score: 
+ 0.9777777777777777 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Data set = iris|	 Classifier = Random forest classifier 
+hyper params:
+ |random state = 1337|	 |number of estimators = 50|	 |min_samples_leaf = 1|	 |min_samples_split = 20|
+confusion matrix: 
+ [[20  0  0]
+ [ 0  9  0]
+ [ 0  1 15]] 
+
+classification report: 
+                  precision    recall  f1-score   support
+
+    Iris-setosa       1.00      1.00      1.00        20
+Iris-versicolor       0.90      1.00      0.95         9
+ Iris-virginica       1.00      0.94      0.97        16
+
+    avg / total       0.98      0.98      0.98        45
+ 
+accuracy score: 
+ 0.9777777777777777 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Data set = iris|	 Classifier = Random forest classifier with Naive Bayes 
+hyper params:
+ |random state = 1337|	 |number of estimators = 50|	 |min_samples_leaf = 1|	 |min_samples_split = 20|
+confusion matrix: 
+ [[20  0  0]
+ [ 0  9  0]
+ [ 0  1 15]] 
+
+classification report: 
+                  precision    recall  f1-score   support
+
+    Iris-setosa       1.00      1.00      1.00        20
+Iris-versicolor       0.90      1.00      0.95         9
+ Iris-virginica       1.00      0.94      0.97        16
+
+    avg / total       0.98      0.98      0.98        45
+ 
+accuracy score: 
+ 0.9777777777777777 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Data set = iris|	 Classifier = Random forest classifier 
+hyper params:
+ |random state = 1337|	 |number of estimators = 50|	 |min_samples_leaf = 5|	 |min_samples_split = 2|
+confusion matrix: 
+ [[20  0  0]
+ [ 0  9  0]
+ [ 0  2 14]] 
+
+classification report: 
+                  precision    recall  f1-score   support
+
+    Iris-setosa       1.00      1.00      1.00        20
+Iris-versicolor       0.82      1.00      0.90         9
+ Iris-virginica       1.00      0.88      0.93        16
+
+    avg / total       0.96      0.96      0.96        45
+ 
+accuracy score: 
+ 0.9555555555555556 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Data set = iris|	 Classifier = Random forest classifier with Naive Bayes 
+hyper params:
+ |random state = 1337|	 |number of estimators = 50|	 |min_samples_leaf = 5|	 |min_samples_split = 2|
+confusion matrix: 
+ [[20  0  0]
+ [ 0  9  0]
+ [ 0  1 15]] 
+
+classification report: 
+                  precision    recall  f1-score   support
+
+    Iris-setosa       1.00      1.00      1.00        20
+Iris-versicolor       0.90      1.00      0.95         9
+ Iris-virginica       1.00      0.94      0.97        16
+
+    avg / total       0.98      0.98      0.98        45
+ 
+accuracy score: 
+ 0.9777777777777777 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Data set = iris|	 Classifier = Random forest classifier 
+hyper params:
+ |random state = 1337|	 |number of estimators = 50|	 |min_samples_leaf = 5|	 |min_samples_split = 10|
+confusion matrix: 
+ [[20  0  0]
+ [ 0  9  0]
+ [ 0  2 14]] 
+
+classification report: 
+                  precision    recall  f1-score   support
+
+    Iris-setosa       1.00      1.00      1.00        20
+Iris-versicolor       0.82      1.00      0.90         9
+ Iris-virginica       1.00      0.88      0.93        16
+
+    avg / total       0.96      0.96      0.96        45
+ 
+accuracy score: 
+ 0.9555555555555556 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Data set = iris|	 Classifier = Random forest classifier with Naive Bayes 
+hyper params:
+ |random state = 1337|	 |number of estimators = 50|	 |min_samples_leaf = 5|	 |min_samples_split = 10|
+confusion matrix: 
+ [[20  0  0]
+ [ 0  9  0]
+ [ 0  1 15]] 
+
+classification report: 
+                  precision    recall  f1-score   support
+
+    Iris-setosa       1.00      1.00      1.00        20
+Iris-versicolor       0.90      1.00      0.95         9
+ Iris-virginica       1.00      0.94      0.97        16
+
+    avg / total       0.98      0.98      0.98        45
+ 
+accuracy score: 
+ 0.9777777777777777 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Data set = iris|	 Classifier = Random forest classifier 
+hyper params:
+ |random state = 1337|	 |number of estimators = 50|	 |min_samples_leaf = 5|	 |min_samples_split = 20|
+confusion matrix: 
+ [[20  0  0]
+ [ 0  9  0]
+ [ 0  2 14]] 
+
+classification report: 
+                  precision    recall  f1-score   support
+
+    Iris-setosa       1.00      1.00      1.00        20
+Iris-versicolor       0.82      1.00      0.90         9
+ Iris-virginica       1.00      0.88      0.93        16
+
+    avg / total       0.96      0.96      0.96        45
+ 
+accuracy score: 
+ 0.9555555555555556 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Data set = iris|	 Classifier = Random forest classifier with Naive Bayes 
+hyper params:
+ |random state = 1337|	 |number of estimators = 50|	 |min_samples_leaf = 5|	 |min_samples_split = 20|
+confusion matrix: 
+ [[20  0  0]
+ [ 0  9  0]
+ [ 0  1 15]] 
+
+classification report: 
+                  precision    recall  f1-score   support
+
+    Iris-setosa       1.00      1.00      1.00        20
+Iris-versicolor       0.90      1.00      0.95         9
+ Iris-virginica       1.00      0.94      0.97        16
+
+    avg / total       0.98      0.98      0.98        45
+ 
+accuracy score: 
+ 0.9777777777777777 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Data set = iris|	 Classifier = Random forest classifier 
+hyper params:
+ |random state = 1337|	 |number of estimators = 50|	 |min_samples_leaf = 10|	 |min_samples_split = 2|
+confusion matrix: 
+ [[20  0  0]
+ [ 0  9  0]
+ [ 0  2 14]] 
+
+classification report: 
+                  precision    recall  f1-score   support
+
+    Iris-setosa       1.00      1.00      1.00        20
+Iris-versicolor       0.82      1.00      0.90         9
+ Iris-virginica       1.00      0.88      0.93        16
+
+    avg / total       0.96      0.96      0.96        45
+ 
+accuracy score: 
+ 0.9555555555555556 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Data set = iris|	 Classifier = Random forest classifier with Naive Bayes 
+hyper params:
+ |random state = 1337|	 |number of estimators = 50|	 |min_samples_leaf = 10|	 |min_samples_split = 2|
+confusion matrix: 
+ [[20  0  0]
+ [ 0  9  0]
+ [ 0  1 15]] 
+
+classification report: 
+                  precision    recall  f1-score   support
+
+    Iris-setosa       1.00      1.00      1.00        20
+Iris-versicolor       0.90      1.00      0.95         9
+ Iris-virginica       1.00      0.94      0.97        16
+
+    avg / total       0.98      0.98      0.98        45
+ 
+accuracy score: 
+ 0.9777777777777777 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Data set = iris|	 Classifier = Random forest classifier 
+hyper params:
+ |random state = 1337|	 |number of estimators = 50|	 |min_samples_leaf = 10|	 |min_samples_split = 10|
+confusion matrix: 
+ [[20  0  0]
+ [ 0  9  0]
+ [ 0  2 14]] 
+
+classification report: 
+                  precision    recall  f1-score   support
+
+    Iris-setosa       1.00      1.00      1.00        20
+Iris-versicolor       0.82      1.00      0.90         9
+ Iris-virginica       1.00      0.88      0.93        16
+
+    avg / total       0.96      0.96      0.96        45
+ 
+accuracy score: 
+ 0.9555555555555556 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Data set = iris|	 Classifier = Random forest classifier with Naive Bayes 
+hyper params:
+ |random state = 1337|	 |number of estimators = 50|	 |min_samples_leaf = 10|	 |min_samples_split = 10|
+confusion matrix: 
+ [[20  0  0]
+ [ 0  9  0]
+ [ 0  1 15]] 
+
+classification report: 
+                  precision    recall  f1-score   support
+
+    Iris-setosa       1.00      1.00      1.00        20
+Iris-versicolor       0.90      1.00      0.95         9
+ Iris-virginica       1.00      0.94      0.97        16
+
+    avg / total       0.98      0.98      0.98        45
+ 
+accuracy score: 
+ 0.9777777777777777 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Data set = iris|	 Classifier = Random forest classifier 
+hyper params:
+ |random state = 1337|	 |number of estimators = 50|	 |min_samples_leaf = 10|	 |min_samples_split = 20|
+confusion matrix: 
+ [[20  0  0]
+ [ 0  9  0]
+ [ 0  2 14]] 
+
+classification report: 
+                  precision    recall  f1-score   support
+
+    Iris-setosa       1.00      1.00      1.00        20
+Iris-versicolor       0.82      1.00      0.90         9
+ Iris-virginica       1.00      0.88      0.93        16
+
+    avg / total       0.96      0.96      0.96        45
+ 
+accuracy score: 
+ 0.9555555555555556 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Data set = iris|	 Classifier = Random forest classifier with Naive Bayes 
+hyper params:
+ |random state = 1337|	 |number of estimators = 50|	 |min_samples_leaf = 10|	 |min_samples_split = 20|
+confusion matrix: 
+ [[20  0  0]
+ [ 0  9  0]
+ [ 0  1 15]] 
+
+classification report: 
+                  precision    recall  f1-score   support
+
+    Iris-setosa       1.00      1.00      1.00        20
+Iris-versicolor       0.90      1.00      0.95         9
+ Iris-virginica       1.00      0.94      0.97        16
+
+    avg / total       0.98      0.98      0.98        45
+ 
+accuracy score: 
+ 0.9777777777777777 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Data set = iris|	 Classifier = Random forest classifier 
+hyper params:
+ |random state = 1337|	 |number of estimators = 100|	 |min_samples_leaf = 1|	 |min_samples_split = 2|
+confusion matrix: 
+ [[20  0  0]
+ [ 0  9  0]
+ [ 0  1 15]] 
+
+classification report: 
+                  precision    recall  f1-score   support
+
+    Iris-setosa       1.00      1.00      1.00        20
+Iris-versicolor       0.90      1.00      0.95         9
+ Iris-virginica       1.00      0.94      0.97        16
+
+    avg / total       0.98      0.98      0.98        45
+ 
+accuracy score: 
+ 0.9777777777777777 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Data set = iris|	 Classifier = Random forest classifier with Naive Bayes 
+hyper params:
+ |random state = 1337|	 |number of estimators = 100|	 |min_samples_leaf = 1|	 |min_samples_split = 2|
+confusion matrix: 
+ [[20  0  0]
+ [ 0  9  0]
+ [ 0  1 15]] 
+
+classification report: 
+                  precision    recall  f1-score   support
+
+    Iris-setosa       1.00      1.00      1.00        20
+Iris-versicolor       0.90      1.00      0.95         9
+ Iris-virginica       1.00      0.94      0.97        16
+
+    avg / total       0.98      0.98      0.98        45
+ 
+accuracy score: 
+ 0.9777777777777777 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Data set = iris|	 Classifier = Random forest classifier 
+hyper params:
+ |random state = 1337|	 |number of estimators = 100|	 |min_samples_leaf = 1|	 |min_samples_split = 10|
+confusion matrix: 
+ [[20  0  0]
+ [ 0  9  0]
+ [ 0  1 15]] 
+
+classification report: 
+                  precision    recall  f1-score   support
+
+    Iris-setosa       1.00      1.00      1.00        20
+Iris-versicolor       0.90      1.00      0.95         9
+ Iris-virginica       1.00      0.94      0.97        16
+
+    avg / total       0.98      0.98      0.98        45
+ 
+accuracy score: 
+ 0.9777777777777777 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Data set = iris|	 Classifier = Random forest classifier with Naive Bayes 
+hyper params:
+ |random state = 1337|	 |number of estimators = 100|	 |min_samples_leaf = 1|	 |min_samples_split = 10|
+confusion matrix: 
+ [[20  0  0]
+ [ 0  9  0]
+ [ 0  1 15]] 
+
+classification report: 
+                  precision    recall  f1-score   support
+
+    Iris-setosa       1.00      1.00      1.00        20
+Iris-versicolor       0.90      1.00      0.95         9
+ Iris-virginica       1.00      0.94      0.97        16
+
+    avg / total       0.98      0.98      0.98        45
+ 
+accuracy score: 
+ 0.9777777777777777 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Data set = iris|	 Classifier = Random forest classifier 
+hyper params:
+ |random state = 1337|	 |number of estimators = 100|	 |min_samples_leaf = 1|	 |min_samples_split = 20|
+confusion matrix: 
+ [[20  0  0]
+ [ 0  9  0]
+ [ 0  1 15]] 
+
+classification report: 
+                  precision    recall  f1-score   support
+
+    Iris-setosa       1.00      1.00      1.00        20
+Iris-versicolor       0.90      1.00      0.95         9
+ Iris-virginica       1.00      0.94      0.97        16
+
+    avg / total       0.98      0.98      0.98        45
+ 
+accuracy score: 
+ 0.9777777777777777 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Data set = iris|	 Classifier = Random forest classifier with Naive Bayes 
+hyper params:
+ |random state = 1337|	 |number of estimators = 100|	 |min_samples_leaf = 1|	 |min_samples_split = 20|
+confusion matrix: 
+ [[20  0  0]
+ [ 0  9  0]
+ [ 0  1 15]] 
+
+classification report: 
+                  precision    recall  f1-score   support
+
+    Iris-setosa       1.00      1.00      1.00        20
+Iris-versicolor       0.90      1.00      0.95         9
+ Iris-virginica       1.00      0.94      0.97        16
+
+    avg / total       0.98      0.98      0.98        45
+ 
+accuracy score: 
+ 0.9777777777777777 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Data set = iris|	 Classifier = Random forest classifier 
+hyper params:
+ |random state = 1337|	 |number of estimators = 100|	 |min_samples_leaf = 5|	 |min_samples_split = 2|
+confusion matrix: 
+ [[20  0  0]
+ [ 0  9  0]
+ [ 0  2 14]] 
+
+classification report: 
+                  precision    recall  f1-score   support
+
+    Iris-setosa       1.00      1.00      1.00        20
+Iris-versicolor       0.82      1.00      0.90         9
+ Iris-virginica       1.00      0.88      0.93        16
+
+    avg / total       0.96      0.96      0.96        45
+ 
+accuracy score: 
+ 0.9555555555555556 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Data set = iris|	 Classifier = Random forest classifier with Naive Bayes 
+hyper params:
+ |random state = 1337|	 |number of estimators = 100|	 |min_samples_leaf = 5|	 |min_samples_split = 2|
+confusion matrix: 
+ [[20  0  0]
+ [ 0  9  0]
+ [ 0  1 15]] 
+
+classification report: 
+                  precision    recall  f1-score   support
+
+    Iris-setosa       1.00      1.00      1.00        20
+Iris-versicolor       0.90      1.00      0.95         9
+ Iris-virginica       1.00      0.94      0.97        16
+
+    avg / total       0.98      0.98      0.98        45
+ 
+accuracy score: 
+ 0.9777777777777777 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Data set = iris|	 Classifier = Random forest classifier 
+hyper params:
+ |random state = 1337|	 |number of estimators = 100|	 |min_samples_leaf = 5|	 |min_samples_split = 10|
+confusion matrix: 
+ [[20  0  0]
+ [ 0  9  0]
+ [ 0  2 14]] 
+
+classification report: 
+                  precision    recall  f1-score   support
+
+    Iris-setosa       1.00      1.00      1.00        20
+Iris-versicolor       0.82      1.00      0.90         9
+ Iris-virginica       1.00      0.88      0.93        16
+
+    avg / total       0.96      0.96      0.96        45
+ 
+accuracy score: 
+ 0.9555555555555556 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Data set = iris|	 Classifier = Random forest classifier with Naive Bayes 
+hyper params:
+ |random state = 1337|	 |number of estimators = 100|	 |min_samples_leaf = 5|	 |min_samples_split = 10|
+confusion matrix: 
+ [[20  0  0]
+ [ 0  9  0]
+ [ 0  1 15]] 
+
+classification report: 
+                  precision    recall  f1-score   support
+
+    Iris-setosa       1.00      1.00      1.00        20
+Iris-versicolor       0.90      1.00      0.95         9
+ Iris-virginica       1.00      0.94      0.97        16
+
+    avg / total       0.98      0.98      0.98        45
+ 
+accuracy score: 
+ 0.9777777777777777 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Data set = iris|	 Classifier = Random forest classifier 
+hyper params:
+ |random state = 1337|	 |number of estimators = 100|	 |min_samples_leaf = 5|	 |min_samples_split = 20|
+confusion matrix: 
+ [[20  0  0]
+ [ 0  9  0]
+ [ 0  2 14]] 
+
+classification report: 
+                  precision    recall  f1-score   support
+
+    Iris-setosa       1.00      1.00      1.00        20
+Iris-versicolor       0.82      1.00      0.90         9
+ Iris-virginica       1.00      0.88      0.93        16
+
+    avg / total       0.96      0.96      0.96        45
+ 
+accuracy score: 
+ 0.9555555555555556 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Data set = iris|	 Classifier = Random forest classifier with Naive Bayes 
+hyper params:
+ |random state = 1337|	 |number of estimators = 100|	 |min_samples_leaf = 5|	 |min_samples_split = 20|
+confusion matrix: 
+ [[20  0  0]
+ [ 0  9  0]
+ [ 0  1 15]] 
+
+classification report: 
+                  precision    recall  f1-score   support
+
+    Iris-setosa       1.00      1.00      1.00        20
+Iris-versicolor       0.90      1.00      0.95         9
+ Iris-virginica       1.00      0.94      0.97        16
+
+    avg / total       0.98      0.98      0.98        45
+ 
+accuracy score: 
+ 0.9777777777777777 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Data set = iris|	 Classifier = Random forest classifier 
+hyper params:
+ |random state = 1337|	 |number of estimators = 100|	 |min_samples_leaf = 10|	 |min_samples_split = 2|
+confusion matrix: 
+ [[20  0  0]
+ [ 0  9  0]
+ [ 0  2 14]] 
+
+classification report: 
+                  precision    recall  f1-score   support
+
+    Iris-setosa       1.00      1.00      1.00        20
+Iris-versicolor       0.82      1.00      0.90         9
+ Iris-virginica       1.00      0.88      0.93        16
+
+    avg / total       0.96      0.96      0.96        45
+ 
+accuracy score: 
+ 0.9555555555555556 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Data set = iris|	 Classifier = Random forest classifier with Naive Bayes 
+hyper params:
+ |random state = 1337|	 |number of estimators = 100|	 |min_samples_leaf = 10|	 |min_samples_split = 2|
+confusion matrix: 
+ [[20  0  0]
+ [ 0  9  0]
+ [ 0  1 15]] 
+
+classification report: 
+                  precision    recall  f1-score   support
+
+    Iris-setosa       1.00      1.00      1.00        20
+Iris-versicolor       0.90      1.00      0.95         9
+ Iris-virginica       1.00      0.94      0.97        16
+
+    avg / total       0.98      0.98      0.98        45
+ 
+accuracy score: 
+ 0.9777777777777777 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Data set = iris|	 Classifier = Random forest classifier 
+hyper params:
+ |random state = 1337|	 |number of estimators = 100|	 |min_samples_leaf = 10|	 |min_samples_split = 10|
+confusion matrix: 
+ [[20  0  0]
+ [ 0  9  0]
+ [ 0  2 14]] 
+
+classification report: 
+                  precision    recall  f1-score   support
+
+    Iris-setosa       1.00      1.00      1.00        20
+Iris-versicolor       0.82      1.00      0.90         9
+ Iris-virginica       1.00      0.88      0.93        16
+
+    avg / total       0.96      0.96      0.96        45
+ 
+accuracy score: 
+ 0.9555555555555556 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Data set = iris|	 Classifier = Random forest classifier with Naive Bayes 
+hyper params:
+ |random state = 1337|	 |number of estimators = 100|	 |min_samples_leaf = 10|	 |min_samples_split = 10|
+confusion matrix: 
+ [[20  0  0]
+ [ 0  9  0]
+ [ 0  1 15]] 
+
+classification report: 
+                  precision    recall  f1-score   support
+
+    Iris-setosa       1.00      1.00      1.00        20
+Iris-versicolor       0.90      1.00      0.95         9
+ Iris-virginica       1.00      0.94      0.97        16
+
+    avg / total       0.98      0.98      0.98        45
+ 
+accuracy score: 
+ 0.9777777777777777 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Data set = iris|	 Classifier = Random forest classifier 
+hyper params:
+ |random state = 1337|	 |number of estimators = 100|	 |min_samples_leaf = 10|	 |min_samples_split = 20|
+confusion matrix: 
+ [[20  0  0]
+ [ 0  9  0]
+ [ 0  2 14]] 
+
+classification report: 
+                  precision    recall  f1-score   support
+
+    Iris-setosa       1.00      1.00      1.00        20
+Iris-versicolor       0.82      1.00      0.90         9
+ Iris-virginica       1.00      0.88      0.93        16
+
+    avg / total       0.96      0.96      0.96        45
+ 
+accuracy score: 
+ 0.9555555555555556 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Data set = iris|	 Classifier = Random forest classifier with Naive Bayes 
+hyper params:
+ |random state = 1337|	 |number of estimators = 100|	 |min_samples_leaf = 10|	 |min_samples_split = 20|
+confusion matrix: 
+ [[20  0  0]
+ [ 0  9  0]
+ [ 0  1 15]] 
+
+classification report: 
+                  precision    recall  f1-score   support
+
+    Iris-setosa       1.00      1.00      1.00        20
+Iris-versicolor       0.90      1.00      0.95         9
+ Iris-virginica       1.00      0.94      0.97        16
+
+    avg / total       0.98      0.98      0.98        45
+ 
+accuracy score: 
+ 0.9777777777777777 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+__________________________________________________Data set = Immunotherapy|	 Classifier = Random forest classifier 
+hyper params:
+ |random state = 1337|	 |number of estimators = 10|	 |min_samples_leaf = 1|	 |min_samples_split = 2|
+confusion matrix: 
+ [[ 0  4]
+ [ 1 22]] 
+
+classification report: 
+              precision    recall  f1-score   support
+
+          0       0.00      0.00      0.00         4
+          1       0.85      0.96      0.90        23
+
+avg / total       0.72      0.81      0.76        27
+ 
+accuracy score: 
+ 0.8148148148148148 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Data set = Immunotherapy|	 Classifier = Random forest classifier with Naive Bayes 
+hyper params:
+ |random state = 1337|	 |number of estimators = 10|	 |min_samples_leaf = 1|	 |min_samples_split = 2|
+confusion matrix: 
+ [[ 1  3]
+ [ 2 21]] 
+
+classification report: 
+              precision    recall  f1-score   support
+
+          0       0.33      0.25      0.29         4
+          1       0.88      0.91      0.89        23
+
+avg / total       0.79      0.81      0.80        27
+ 
+accuracy score: 
+ 0.8148148148148148 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Data set = Immunotherapy|	 Classifier = Random forest classifier 
+hyper params:
+ |random state = 1337|	 |number of estimators = 10|	 |min_samples_leaf = 1|	 |min_samples_split = 10|
+confusion matrix: 
+ [[ 0  4]
+ [ 0 23]] 
+
+classification report: 
+              precision    recall  f1-score   support
+
+          0       0.00      0.00      0.00         4
+          1       0.85      1.00      0.92        23
+
+avg / total       0.73      0.85      0.78        27
+ 
+accuracy score: 
+ 0.8518518518518519 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Data set = Immunotherapy|	 Classifier = Random forest classifier with Naive Bayes 
+hyper params:
+ |random state = 1337|	 |number of estimators = 10|	 |min_samples_leaf = 1|	 |min_samples_split = 10|
+confusion matrix: 
+ [[ 1  3]
+ [ 2 21]] 
+
+classification report: 
+              precision    recall  f1-score   support
+
+          0       0.33      0.25      0.29         4
+          1       0.88      0.91      0.89        23
+
+avg / total       0.79      0.81      0.80        27
+ 
+accuracy score: 
+ 0.8148148148148148 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Data set = Immunotherapy|	 Classifier = Random forest classifier 
+hyper params:
+ |random state = 1337|	 |number of estimators = 10|	 |min_samples_leaf = 1|	 |min_samples_split = 20|
+confusion matrix: 
+ [[ 0  4]
+ [ 0 23]] 
+
+classification report: 
+              precision    recall  f1-score   support
+
+          0       0.00      0.00      0.00         4
+          1       0.85      1.00      0.92        23
+
+avg / total       0.73      0.85      0.78        27
+ 
+accuracy score: 
+ 0.8518518518518519 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Data set = Immunotherapy|	 Classifier = Random forest classifier with Naive Bayes 
+hyper params:
+ |random state = 1337|	 |number of estimators = 10|	 |min_samples_leaf = 1|	 |min_samples_split = 20|
+confusion matrix: 
+ [[ 2  2]
+ [ 2 21]] 
+
+classification report: 
+              precision    recall  f1-score   support
+
+          0       0.50      0.50      0.50         4
+          1       0.91      0.91      0.91        23
+
+avg / total       0.85      0.85      0.85        27
+ 
+accuracy score: 
+ 0.8518518518518519 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Data set = Immunotherapy|	 Classifier = Random forest classifier 
+hyper params:
+ |random state = 1337|	 |number of estimators = 10|	 |min_samples_leaf = 5|	 |min_samples_split = 2|
+confusion matrix: 
+ [[ 0  4]
+ [ 0 23]] 
+
+classification report: 
+              precision    recall  f1-score   support
+
+          0       0.00      0.00      0.00         4
+          1       0.85      1.00      0.92        23
+
+avg / total       0.73      0.85      0.78        27
+ 
+accuracy score: 
+ 0.8518518518518519 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Data set = Immunotherapy|	 Classifier = Random forest classifier with Naive Bayes 
+hyper params:
+ |random state = 1337|	 |number of estimators = 10|	 |min_samples_leaf = 5|	 |min_samples_split = 2|
+confusion matrix: 
+ [[ 1  3]
+ [ 2 21]] 
+
+classification report: 
+              precision    recall  f1-score   support
+
+          0       0.33      0.25      0.29         4
+          1       0.88      0.91      0.89        23
+
+avg / total       0.79      0.81      0.80        27
+ 
+accuracy score: 
+ 0.8148148148148148 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Data set = Immunotherapy|	 Classifier = Random forest classifier 
+hyper params:
+ |random state = 1337|	 |number of estimators = 10|	 |min_samples_leaf = 5|	 |min_samples_split = 10|
+confusion matrix: 
+ [[ 0  4]
+ [ 0 23]] 
+
+classification report: 
+              precision    recall  f1-score   support
+
+          0       0.00      0.00      0.00         4
+          1       0.85      1.00      0.92        23
+
+avg / total       0.73      0.85      0.78        27
+ 
+accuracy score: 
+ 0.8518518518518519 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Data set = Immunotherapy|	 Classifier = Random forest classifier with Naive Bayes 
+hyper params:
+ |random state = 1337|	 |number of estimators = 10|	 |min_samples_leaf = 5|	 |min_samples_split = 10|
+confusion matrix: 
+ [[ 1  3]
+ [ 2 21]] 
+
+classification report: 
+              precision    recall  f1-score   support
+
+          0       0.33      0.25      0.29         4
+          1       0.88      0.91      0.89        23
+
+avg / total       0.79      0.81      0.80        27
+ 
+accuracy score: 
+ 0.8148148148148148 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Data set = Immunotherapy|	 Classifier = Random forest classifier 
+hyper params:
+ |random state = 1337|	 |number of estimators = 10|	 |min_samples_leaf = 5|	 |min_samples_split = 20|
+confusion matrix: 
+ [[ 0  4]
+ [ 0 23]] 
+
+classification report: 
+              precision    recall  f1-score   support
+
+          0       0.00      0.00      0.00         4
+          1       0.85      1.00      0.92        23
+
+avg / total       0.73      0.85      0.78        27
+ 
+accuracy score: 
+ 0.8518518518518519 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Data set = Immunotherapy|	 Classifier = Random forest classifier with Naive Bayes 
+hyper params:
+ |random state = 1337|	 |number of estimators = 10|	 |min_samples_leaf = 5|	 |min_samples_split = 20|
+confusion matrix: 
+ [[ 2  2]
+ [ 2 21]] 
+
+classification report: 
+              precision    recall  f1-score   support
+
+          0       0.50      0.50      0.50         4
+          1       0.91      0.91      0.91        23
+
+avg / total       0.85      0.85      0.85        27
+ 
+accuracy score: 
+ 0.8518518518518519 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Data set = Immunotherapy|	 Classifier = Random forest classifier 
+hyper params:
+ |random state = 1337|	 |number of estimators = 10|	 |min_samples_leaf = 10|	 |min_samples_split = 2|
+confusion matrix: 
+ [[ 0  4]
+ [ 0 23]] 
+
+classification report: 
+              precision    recall  f1-score   support
+
+          0       0.00      0.00      0.00         4
+          1       0.85      1.00      0.92        23
+
+avg / total       0.73      0.85      0.78        27
+ 
+accuracy score: 
+ 0.8518518518518519 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Data set = Immunotherapy|	 Classifier = Random forest classifier with Naive Bayes 
+hyper params:
+ |random state = 1337|	 |number of estimators = 10|	 |min_samples_leaf = 10|	 |min_samples_split = 2|
+confusion matrix: 
+ [[ 1  3]
+ [ 1 22]] 
+
+classification report: 
+              precision    recall  f1-score   support
+
+          0       0.50      0.25      0.33         4
+          1       0.88      0.96      0.92        23
+
+avg / total       0.82      0.85      0.83        27
+ 
+accuracy score: 
+ 0.8518518518518519 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Data set = Immunotherapy|	 Classifier = Random forest classifier 
+hyper params:
+ |random state = 1337|	 |number of estimators = 10|	 |min_samples_leaf = 10|	 |min_samples_split = 10|
+confusion matrix: 
+ [[ 0  4]
+ [ 0 23]] 
+
+classification report: 
+              precision    recall  f1-score   support
+
+          0       0.00      0.00      0.00         4
+          1       0.85      1.00      0.92        23
+
+avg / total       0.73      0.85      0.78        27
+ 
+accuracy score: 
+ 0.8518518518518519 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Data set = Immunotherapy|	 Classifier = Random forest classifier with Naive Bayes 
+hyper params:
+ |random state = 1337|	 |number of estimators = 10|	 |min_samples_leaf = 10|	 |min_samples_split = 10|
+confusion matrix: 
+ [[ 1  3]
+ [ 1 22]] 
+
+classification report: 
+              precision    recall  f1-score   support
+
+          0       0.50      0.25      0.33         4
+          1       0.88      0.96      0.92        23
+
+avg / total       0.82      0.85      0.83        27
+ 
+accuracy score: 
+ 0.8518518518518519 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Data set = Immunotherapy|	 Classifier = Random forest classifier 
+hyper params:
+ |random state = 1337|	 |number of estimators = 10|	 |min_samples_leaf = 10|	 |min_samples_split = 20|
+confusion matrix: 
+ [[ 0  4]
+ [ 0 23]] 
+
+classification report: 
+              precision    recall  f1-score   support
+
+          0       0.00      0.00      0.00         4
+          1       0.85      1.00      0.92        23
+
+avg / total       0.73      0.85      0.78        27
+ 
+accuracy score: 
+ 0.8518518518518519 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Data set = Immunotherapy|	 Classifier = Random forest classifier with Naive Bayes 
+hyper params:
+ |random state = 1337|	 |number of estimators = 10|	 |min_samples_leaf = 10|	 |min_samples_split = 20|
+confusion matrix: 
+ [[ 1  3]
+ [ 1 22]] 
+
+classification report: 
+              precision    recall  f1-score   support
+
+          0       0.50      0.25      0.33         4
+          1       0.88      0.96      0.92        23
+
+avg / total       0.82      0.85      0.83        27
+ 
+accuracy score: 
+ 0.8518518518518519 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Data set = Immunotherapy|	 Classifier = Random forest classifier 
+hyper params:
+ |random state = 1337|	 |number of estimators = 50|	 |min_samples_leaf = 1|	 |min_samples_split = 2|
+confusion matrix: 
+ [[ 0  4]
+ [ 0 23]] 
+
+classification report: 
+              precision    recall  f1-score   support
+
+          0       0.00      0.00      0.00         4
+          1       0.85      1.00      0.92        23
+
+avg / total       0.73      0.85      0.78        27
+ 
+accuracy score: 
+ 0.8518518518518519 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Data set = Immunotherapy|	 Classifier = Random forest classifier with Naive Bayes 
+hyper params:
+ |random state = 1337|	 |number of estimators = 50|	 |min_samples_leaf = 1|	 |min_samples_split = 2|
+confusion matrix: 
+ [[ 1  3]
+ [ 0 23]] 
+
+classification report: 
+              precision    recall  f1-score   support
+
+          0       1.00      0.25      0.40         4
+          1       0.88      1.00      0.94        23
+
+avg / total       0.90      0.89      0.86        27
+ 
+accuracy score: 
+ 0.8888888888888888 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Data set = Immunotherapy|	 Classifier = Random forest classifier 
+hyper params:
+ |random state = 1337|	 |number of estimators = 50|	 |min_samples_leaf = 1|	 |min_samples_split = 10|
+confusion matrix: 
+ [[ 0  4]
+ [ 0 23]] 
+
+classification report: 
+              precision    recall  f1-score   support
+
+          0       0.00      0.00      0.00         4
+          1       0.85      1.00      0.92        23
+
+avg / total       0.73      0.85      0.78        27
+ 
+accuracy score: 
+ 0.8518518518518519 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Data set = Immunotherapy|	 Classifier = Random forest classifier with Naive Bayes 
+hyper params:
+ |random state = 1337|	 |number of estimators = 50|	 |min_samples_leaf = 1|	 |min_samples_split = 10|
+confusion matrix: 
+ [[ 1  3]
+ [ 0 23]] 
+
+classification report: 
+              precision    recall  f1-score   support
+
+          0       1.00      0.25      0.40         4
+          1       0.88      1.00      0.94        23
+
+avg / total       0.90      0.89      0.86        27
+ 
+accuracy score: 
+ 0.8888888888888888 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Data set = Immunotherapy|	 Classifier = Random forest classifier 
+hyper params:
+ |random state = 1337|	 |number of estimators = 50|	 |min_samples_leaf = 1|	 |min_samples_split = 20|
+confusion matrix: 
+ [[ 0  4]
+ [ 0 23]] 
+
+classification report: 
+              precision    recall  f1-score   support
+
+          0       0.00      0.00      0.00         4
+          1       0.85      1.00      0.92        23
+
+avg / total       0.73      0.85      0.78        27
+ 
+accuracy score: 
+ 0.8518518518518519 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Data set = Immunotherapy|	 Classifier = Random forest classifier with Naive Bayes 
+hyper params:
+ |random state = 1337|	 |number of estimators = 50|	 |min_samples_leaf = 1|	 |min_samples_split = 20|
+confusion matrix: 
+ [[ 1  3]
+ [ 0 23]] 
+
+classification report: 
+              precision    recall  f1-score   support
+
+          0       1.00      0.25      0.40         4
+          1       0.88      1.00      0.94        23
+
+avg / total       0.90      0.89      0.86        27
+ 
+accuracy score: 
+ 0.8888888888888888 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Data set = Immunotherapy|	 Classifier = Random forest classifier 
+hyper params:
+ |random state = 1337|	 |number of estimators = 50|	 |min_samples_leaf = 5|	 |min_samples_split = 2|
+confusion matrix: 
+ [[ 0  4]
+ [ 0 23]] 
+
+classification report: 
+              precision    recall  f1-score   support
+
+          0       0.00      0.00      0.00         4
+          1       0.85      1.00      0.92        23
+
+avg / total       0.73      0.85      0.78        27
+ 
+accuracy score: 
+ 0.8518518518518519 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Data set = Immunotherapy|	 Classifier = Random forest classifier with Naive Bayes 
+hyper params:
+ |random state = 1337|	 |number of estimators = 50|	 |min_samples_leaf = 5|	 |min_samples_split = 2|
+confusion matrix: 
+ [[ 1  3]
+ [ 0 23]] 
+
+classification report: 
+              precision    recall  f1-score   support
+
+          0       1.00      0.25      0.40         4
+          1       0.88      1.00      0.94        23
+
+avg / total       0.90      0.89      0.86        27
+ 
+accuracy score: 
+ 0.8888888888888888 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Data set = Immunotherapy|	 Classifier = Random forest classifier 
+hyper params:
+ |random state = 1337|	 |number of estimators = 50|	 |min_samples_leaf = 5|	 |min_samples_split = 10|
+confusion matrix: 
+ [[ 0  4]
+ [ 0 23]] 
+
+classification report: 
+              precision    recall  f1-score   support
+
+          0       0.00      0.00      0.00         4
+          1       0.85      1.00      0.92        23
+
+avg / total       0.73      0.85      0.78        27
+ 
+accuracy score: 
+ 0.8518518518518519 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Data set = Immunotherapy|	 Classifier = Random forest classifier with Naive Bayes 
+hyper params:
+ |random state = 1337|	 |number of estimators = 50|	 |min_samples_leaf = 5|	 |min_samples_split = 10|
+confusion matrix: 
+ [[ 1  3]
+ [ 0 23]] 
+
+classification report: 
+              precision    recall  f1-score   support
+
+          0       1.00      0.25      0.40         4
+          1       0.88      1.00      0.94        23
+
+avg / total       0.90      0.89      0.86        27
+ 
+accuracy score: 
+ 0.8888888888888888 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Data set = Immunotherapy|	 Classifier = Random forest classifier 
+hyper params:
+ |random state = 1337|	 |number of estimators = 50|	 |min_samples_leaf = 5|	 |min_samples_split = 20|
+confusion matrix: 
+ [[ 0  4]
+ [ 0 23]] 
+
+classification report: 
+              precision    recall  f1-score   support
+
+          0       0.00      0.00      0.00         4
+          1       0.85      1.00      0.92        23
+
+avg / total       0.73      0.85      0.78        27
+ 
+accuracy score: 
+ 0.8518518518518519 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Data set = Immunotherapy|	 Classifier = Random forest classifier with Naive Bayes 
+hyper params:
+ |random state = 1337|	 |number of estimators = 50|	 |min_samples_leaf = 5|	 |min_samples_split = 20|
+confusion matrix: 
+ [[ 1  3]
+ [ 0 23]] 
+
+classification report: 
+              precision    recall  f1-score   support
+
+          0       1.00      0.25      0.40         4
+          1       0.88      1.00      0.94        23
+
+avg / total       0.90      0.89      0.86        27
+ 
+accuracy score: 
+ 0.8888888888888888 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Data set = Immunotherapy|	 Classifier = Random forest classifier 
+hyper params:
+ |random state = 1337|	 |number of estimators = 50|	 |min_samples_leaf = 10|	 |min_samples_split = 2|
+confusion matrix: 
+ [[ 0  4]
+ [ 0 23]] 
+
+classification report: 
+              precision    recall  f1-score   support
+
+          0       0.00      0.00      0.00         4
+          1       0.85      1.00      0.92        23
+
+avg / total       0.73      0.85      0.78        27
+ 
+accuracy score: 
+ 0.8518518518518519 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Data set = Immunotherapy|	 Classifier = Random forest classifier with Naive Bayes 
+hyper params:
+ |random state = 1337|	 |number of estimators = 50|	 |min_samples_leaf = 10|	 |min_samples_split = 2|
+confusion matrix: 
+ [[ 1  3]
+ [ 2 21]] 
+
+classification report: 
+              precision    recall  f1-score   support
+
+          0       0.33      0.25      0.29         4
+          1       0.88      0.91      0.89        23
+
+avg / total       0.79      0.81      0.80        27
+ 
+accuracy score: 
+ 0.8148148148148148 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Data set = Immunotherapy|	 Classifier = Random forest classifier 
+hyper params:
+ |random state = 1337|	 |number of estimators = 50|	 |min_samples_leaf = 10|	 |min_samples_split = 10|
+confusion matrix: 
+ [[ 0  4]
+ [ 0 23]] 
+
+classification report: 
+              precision    recall  f1-score   support
+
+          0       0.00      0.00      0.00         4
+          1       0.85      1.00      0.92        23
+
+avg / total       0.73      0.85      0.78        27
+ 
+accuracy score: 
+ 0.8518518518518519 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Data set = Immunotherapy|	 Classifier = Random forest classifier with Naive Bayes 
+hyper params:
+ |random state = 1337|	 |number of estimators = 50|	 |min_samples_leaf = 10|	 |min_samples_split = 10|
+confusion matrix: 
+ [[ 1  3]
+ [ 2 21]] 
+
+classification report: 
+              precision    recall  f1-score   support
+
+          0       0.33      0.25      0.29         4
+          1       0.88      0.91      0.89        23
+
+avg / total       0.79      0.81      0.80        27
+ 
+accuracy score: 
+ 0.8148148148148148 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Data set = Immunotherapy|	 Classifier = Random forest classifier 
+hyper params:
+ |random state = 1337|	 |number of estimators = 50|	 |min_samples_leaf = 10|	 |min_samples_split = 20|
+confusion matrix: 
+ [[ 0  4]
+ [ 0 23]] 
+
+classification report: 
+              precision    recall  f1-score   support
+
+          0       0.00      0.00      0.00         4
+          1       0.85      1.00      0.92        23
+
+avg / total       0.73      0.85      0.78        27
+ 
+accuracy score: 
+ 0.8518518518518519 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Data set = Immunotherapy|	 Classifier = Random forest classifier with Naive Bayes 
+hyper params:
+ |random state = 1337|	 |number of estimators = 50|	 |min_samples_leaf = 10|	 |min_samples_split = 20|
+confusion matrix: 
+ [[ 1  3]
+ [ 2 21]] 
+
+classification report: 
+              precision    recall  f1-score   support
+
+          0       0.33      0.25      0.29         4
+          1       0.88      0.91      0.89        23
+
+avg / total       0.79      0.81      0.80        27
+ 
+accuracy score: 
+ 0.8148148148148148 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Data set = Immunotherapy|	 Classifier = Random forest classifier 
+hyper params:
+ |random state = 1337|	 |number of estimators = 100|	 |min_samples_leaf = 1|	 |min_samples_split = 2|
+confusion matrix: 
+ [[ 0  4]
+ [ 0 23]] 
+
+classification report: 
+              precision    recall  f1-score   support
+
+          0       0.00      0.00      0.00         4
+          1       0.85      1.00      0.92        23
+
+avg / total       0.73      0.85      0.78        27
+ 
+accuracy score: 
+ 0.8518518518518519 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Data set = Immunotherapy|	 Classifier = Random forest classifier with Naive Bayes 
+hyper params:
+ |random state = 1337|	 |number of estimators = 100|	 |min_samples_leaf = 1|	 |min_samples_split = 2|
+confusion matrix: 
+ [[ 2  2]
+ [ 1 22]] 
+
+classification report: 
+              precision    recall  f1-score   support
+
+          0       0.67      0.50      0.57         4
+          1       0.92      0.96      0.94        23
+
+avg / total       0.88      0.89      0.88        27
+ 
+accuracy score: 
+ 0.8888888888888888 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Data set = Immunotherapy|	 Classifier = Random forest classifier 
+hyper params:
+ |random state = 1337|	 |number of estimators = 100|	 |min_samples_leaf = 1|	 |min_samples_split = 10|
+confusion matrix: 
+ [[ 0  4]
+ [ 0 23]] 
+
+classification report: 
+              precision    recall  f1-score   support
+
+          0       0.00      0.00      0.00         4
+          1       0.85      1.00      0.92        23
+
+avg / total       0.73      0.85      0.78        27
+ 
+accuracy score: 
+ 0.8518518518518519 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Data set = Immunotherapy|	 Classifier = Random forest classifier with Naive Bayes 
+hyper params:
+ |random state = 1337|	 |number of estimators = 100|	 |min_samples_leaf = 1|	 |min_samples_split = 10|
+confusion matrix: 
+ [[ 2  2]
+ [ 1 22]] 
+
+classification report: 
+              precision    recall  f1-score   support
+
+          0       0.67      0.50      0.57         4
+          1       0.92      0.96      0.94        23
+
+avg / total       0.88      0.89      0.88        27
+ 
+accuracy score: 
+ 0.8888888888888888 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Data set = Immunotherapy|	 Classifier = Random forest classifier 
+hyper params:
+ |random state = 1337|	 |number of estimators = 100|	 |min_samples_leaf = 1|	 |min_samples_split = 20|
+confusion matrix: 
+ [[ 0  4]
+ [ 0 23]] 
+
+classification report: 
+              precision    recall  f1-score   support
+
+          0       0.00      0.00      0.00         4
+          1       0.85      1.00      0.92        23
+
+avg / total       0.73      0.85      0.78        27
+ 
+accuracy score: 
+ 0.8518518518518519 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Data set = Immunotherapy|	 Classifier = Random forest classifier with Naive Bayes 
+hyper params:
+ |random state = 1337|	 |number of estimators = 100|	 |min_samples_leaf = 1|	 |min_samples_split = 20|
+confusion matrix: 
+ [[ 2  2]
+ [ 1 22]] 
+
+classification report: 
+              precision    recall  f1-score   support
+
+          0       0.67      0.50      0.57         4
+          1       0.92      0.96      0.94        23
+
+avg / total       0.88      0.89      0.88        27
+ 
+accuracy score: 
+ 0.8888888888888888 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Data set = Immunotherapy|	 Classifier = Random forest classifier 
+hyper params:
+ |random state = 1337|	 |number of estimators = 100|	 |min_samples_leaf = 5|	 |min_samples_split = 2|
+confusion matrix: 
+ [[ 0  4]
+ [ 0 23]] 
+
+classification report: 
+              precision    recall  f1-score   support
+
+          0       0.00      0.00      0.00         4
+          1       0.85      1.00      0.92        23
+
+avg / total       0.73      0.85      0.78        27
+ 
+accuracy score: 
+ 0.8518518518518519 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Data set = Immunotherapy|	 Classifier = Random forest classifier with Naive Bayes 
+hyper params:
+ |random state = 1337|	 |number of estimators = 100|	 |min_samples_leaf = 5|	 |min_samples_split = 2|
+confusion matrix: 
+ [[ 2  2]
+ [ 1 22]] 
+
